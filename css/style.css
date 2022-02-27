@@ -48,7 +48,13 @@ body {
     margin-top: -33px;
 }
 
-
+.heading{
+    font-weight: 700;
+color: #282612;
+text-align: center;
+padding-bottom: 10px;
+padding-top: 10px
+}
 #nav-list li p {
     background: #943d24;
 }
